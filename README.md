@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniele Gradassai
-=========================================================================================================================================
+<h1 align="center">⚡ Daniele Gradassai ⚡</h1>
+<h3 align="center"> 💻 Junior Developer 💻</h3>
 
-Junior Developer
+
 ----------------
 
-* ✉️  You can contact me at [danielegradassai@gmail.com](mailto:danielegradassai@gmail.com)
+✉️ [danielegradassai@gmail.com](mailto:danielegradassai@gmail.com)
 
 ### Skills
 
