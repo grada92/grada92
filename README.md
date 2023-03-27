@@ -1,4 +1,4 @@
-![logo](https://github.com/grada92/grada92/blob/main/bannergithub.png)
+![logo](https://github.com/grada92/grada92/blob/main/banner.png)
 ----------------
 
 ✉️ [danielegradassai@gmail.com](mailto:danielegradassai@gmail.com)
