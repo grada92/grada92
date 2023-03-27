@@ -1,7 +1,4 @@
-<h1 align="center">⚡ Daniele Gradassai ⚡</h1>
-<h3 align="center"> 💻 Junior Developer 💻</h3>
-
-
+![logo](https://github.com/grada92/grada92/blob/main/bannergithub.png)
 ----------------
 
 ✉️ [danielegradassai@gmail.com](mailto:danielegradassai@gmail.com)
